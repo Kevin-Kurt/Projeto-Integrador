@@ -1,7 +1,7 @@
 # Projeto Integrador <img src = "https://brazil.generation.org/wp-content/uploads/2019/04/video-brasil-second-video.png" height=25 width=35> :ok_hand: :raised_hands:
 
 <h4>Compilado de códigos acerca do sistema do projeto integrador</h1> 
-Descrição:  "nome da app", trata-se de uma rede social voltada para mulheres vitmas de discriminação e/ou sofrem ou sofreram em algum momento de sua vida profissional.
+Descrição: <b><i>LOTUS</i></b> trata-se de uma rede social voltada para mulheres vitmas de discriminação e/ou sofrem ou sofreram em algum momento de sua vida profissional.
  
 O objetivo é coletarmos reclamações e denúncias feitas pelas usuárias da rede e de forma efetiva expor/mostrar empresas que praticam qualquer tipo injuria ou discriminação.
 
@@ -9,13 +9,21 @@ O objetivo é coletarmos reclamações e denúncias feitas pelas usuárias da re
 
 <h4>DESENVOLVEDORES  👨‍💻 :</h4> 
 
-:small_blue_diamond:	Isaque Costa
+:small_blue_diamond:	 Isaque Costa | <a href="https://www.linkedin.com/in/isaque-silva/">
+<img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="25" height="25">
+</a>
 
-:small_blue_diamond:	Danilo Silva
+:small_blue_diamond:	Danilo Silva | <a href="https://www.linkedin.com/in/danilo-silva-77204312b/">
+<img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="25" height="25">
+</a>
 
-:small_blue_diamond:	Vitor Murback
+:small_blue_diamond:	Vitor Murback | <a href="https://www.linkedin.com/in/vitor-murback-45aaba200/">
+<img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="25" height="25">
+</a>
 
-:small_blue_diamond:	Kevin Kurt
+:small_blue_diamond:	Kevin Kurt | <a href="https://www.linkedin.com/in/kevin-kurt-3871891a6/">
+<img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="25" height="25">
+</a>
 
 ---------------------------------------------------------------------------------
 <h4>FERRAMENTAS  🛠️:</h4>
